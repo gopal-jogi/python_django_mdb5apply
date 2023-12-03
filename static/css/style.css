@@ -11,3 +11,9 @@ nav{
     background-color: aqua;
     color: black;
 }
+.carousel-item{
+    object-fit: cover;
+    object-position: center;
+    height: 85vh;
+    overflow: hidden;
+}
